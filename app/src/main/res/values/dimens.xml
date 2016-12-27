@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="fragment3_viewPager_height">120dp</dimen>
+    <dimen name="fragment3_text_height">100dp</dimen>
+    <!-- textsize -->
+    <dimen name="fragment3_text_size">25sp</dimen>
+    <dimen name="fragment_top_title">25sp</dimen>
+
+    <dimen name="fragment4_text_size">18sp</dimen>
+
+    <dimen name="fragment4_margin">15dp</dimen>
+
+    <dimen name="fragment4_image">15dp</dimen>
+</resources>

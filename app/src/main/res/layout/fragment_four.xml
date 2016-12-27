@@ -1,0 +1,193 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.bane.fragment.FourFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp"
+        android:paddingLeft="15dp"
+        android:id="@+id/fragment4_textview0"
+        android:background="@color/color_white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:text="更多"
+        android:gravity="center"
+        android:textColor="@color/color_black"
+        />
+    <View
+        android:id="@+id/view"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:background="#363535"
+        android:layout_below="@+id/fragment4_textview0"
+        />
+
+    <RelativeLayout
+        android:id="@+id/layout_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/view">
+
+
+    <TextView
+
+        android:paddingBottom="@dimen/fragment4_margin"
+        android:paddingTop="@dimen/fragment4_margin"
+        android:paddingLeft="@dimen/fragment4_margin"
+        android:id="@+id/fragment4_textview1"
+        android:background="@color/color_white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/fragment4_text_size"
+        android:text="我的收藏"
+        android:textColor="@color/color_black"
+        />
+    <ImageView
+        android:layout_margin="@dimen/fragment4_margin"
+        android:layout_marginTop="@dimen/fragment4_margin"
+        android:layout_marginBottom="@dimen/fragment4_margin"
+        android:id="@+id/fragment4_imagview1"
+        android:layout_width="@dimen/fragment4_image"
+        android:layout_height="@dimen/fragment4_image"
+        android:background="@drawable/arrow"
+        android:layout_alignRight="@+id/fragment4_textview1"
+         />
+        </RelativeLayout>
+    <RelativeLayout
+        android:layout_marginTop="2dp"
+        android:id="@+id/layout_2"
+        android:layout_below="@id/layout_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_marginTop="2dp"
+            android:paddingBottom="@dimen/fragment4_margin"
+            android:paddingTop="@dimen/fragment4_margin"
+            android:paddingLeft="@dimen/fragment4_margin"
+            android:id="@+id/fragment4_textview2"
+            android:background="@color/color_white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/fragment4_text_size"
+            android:text="我的下载"
+            android:textColor="@color/color_black"
+             />
+
+        <ImageView
+        android:id="@+id/fragment4_imagview2"
+        android:layout_margin="@dimen/fragment4_margin"
+        android:layout_marginTop="@dimen/fragment4_margin"
+        android:layout_marginBottom="@dimen/fragment4_margin"
+        android:layout_width="@dimen/fragment4_image"
+        android:layout_height="@dimen/fragment4_image"
+        android:background="@drawable/arrow"
+        android:layout_alignRight="@+id/fragment4_textview2"
+         />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_marginTop="5dp"
+        android:id="@+id/layout_3"
+        android:layout_below="@id/layout_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_marginTop="2dp"
+            android:paddingBottom="@dimen/fragment4_margin"
+            android:paddingTop="@dimen/fragment4_margin"
+            android:paddingLeft="@dimen/fragment4_margin"
+            android:id="@+id/fragment4_textview3"
+            android:background="@color/color_white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/fragment4_text_size"
+            android:text="推荐给好友"
+            android:textColor="@color/color_black"
+            />
+
+        <ImageView
+            android:id="@+id/fragment4_imagview3"
+            android:layout_margin="@dimen/fragment4_margin"
+            android:layout_marginTop="@dimen/fragment4_margin"
+            android:layout_marginBottom="@dimen/fragment4_margin"
+            android:layout_width="@dimen/fragment4_image"
+            android:layout_height="@dimen/fragment4_image"
+            android:background="@drawable/arrow"
+            android:layout_alignRight="@+id/fragment4_textview3"
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="2dp"
+        android:id="@+id/layout_4"
+        android:layout_below="@id/layout_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_marginTop="2dp"
+            android:paddingBottom="@dimen/fragment4_margin"
+            android:paddingTop="@dimen/fragment4_margin"
+            android:paddingLeft="@dimen/fragment4_margin"
+            android:id="@+id/fragment4_textview4"
+            android:background="@color/color_white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/fragment4_text_size"
+            android:text="给个好评"
+            android:textColor="@color/color_black"
+            />
+
+        <ImageView
+            android:id="@+id/fragment4_imagview4"
+            android:layout_margin="@dimen/fragment4_margin"
+            android:layout_marginTop="@dimen/fragment4_margin"
+            android:layout_marginBottom="@dimen/fragment4_margin"
+            android:layout_width="@dimen/fragment4_image"
+            android:layout_height="@dimen/fragment4_image"
+            android:background="@drawable/arrow"
+            android:layout_alignRight="@+id/fragment4_textview4"
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="2dp"
+        android:id="@+id/layout_5"
+        android:layout_below="@id/layout_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_marginTop="2dp"
+            android:paddingBottom="@dimen/fragment4_margin"
+            android:paddingTop="@dimen/fragment4_margin"
+            android:paddingLeft="@dimen/fragment4_margin"
+            android:id="@+id/fragment4_textview5"
+            android:background="@color/color_white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/fragment4_text_size"
+            android:text="设置"
+            android:textColor="@color/color_black"
+            />
+
+        <ImageView
+            android:id="@+id/fragment4_imagview5"
+            android:layout_margin="@dimen/fragment4_margin"
+            android:layout_marginTop="@dimen/fragment4_margin"
+            android:layout_marginBottom="@dimen/fragment4_margin"
+            android:layout_width="@dimen/fragment4_image"
+            android:layout_height="@dimen/fragment4_image"
+            android:background="@drawable/arrow"
+            android:layout_alignRight="@+id/fragment4_textview5"
+            />
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>

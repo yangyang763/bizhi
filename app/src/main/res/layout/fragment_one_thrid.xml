@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.bane.fragment_one.OneThridFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <com.handmark.pulltorefresh.library.PullToRefreshGridView
+        android:id="@+id/pullto_refresh_gridview_3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:ptrAnimationStyle="rotate"
+        android:numColumns="3"
+        android:scrollbars="none"
+        >
+    </com.handmark.pulltorefresh.library.PullToRefreshGridView>
+
+</LinearLayout>

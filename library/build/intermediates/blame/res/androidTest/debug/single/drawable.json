@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\samsung\\Desktop\\zcr\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\samsung\\Desktop\\zcr\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\androidstudio\\project\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\androidstudio\\project\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\androidstudio\\project\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\androidstudio\\project\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\Desktop\\zcr\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\samsung\\Desktop\\zcr\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    }
+]

@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bane.fragment.TwoFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp"
+        android:paddingLeft="15dp"
+        android:id="@+id/fragment2_textview0"
+        android:background="@color/color_white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:text="分类"
+        android:gravity="center"
+        android:textColor="@color/color_black"
+        />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:background="#363535"
+        android:layout_below="@+id/fragment2_textview0"
+        />
+        <ListView
+            android:scrollbars="none"
+            android:layout_below="@+id/view"
+            android:id="@+id/fragment2_listivew"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+</RelativeLayout>

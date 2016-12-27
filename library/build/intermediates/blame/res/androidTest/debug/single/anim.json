@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\samsung\\Desktop\\zcr\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "C:\\Users\\samsung\\Desktop\\zcr\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\androidstudio\\project\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "F:\\androidstudio\\project\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\androidstudio\\project\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "F:\\androidstudio\\project\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "F:\\androidstudio\\project\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "F:\\androidstudio\\project\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\Desktop\\zcr\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "C:\\Users\\samsung\\Desktop\\zcr\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\Desktop\\zcr\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "C:\\Users\\samsung\\Desktop\\zcr\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\Desktop\\zcr\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "C:\\Users\\samsung\\Desktop\\zcr\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "F:\\androidstudio\\project\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "F:\\androidstudio\\project\\Android32_AsyncTask_JSON\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    }
+]
